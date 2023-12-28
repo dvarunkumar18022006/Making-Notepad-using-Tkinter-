@@ -74,7 +74,9 @@ Hope you'll install it in your computer just to try .
 
 
 ## Contributors
-![@abhishuraina](https://avatars2.githubusercontent.com/u/45932588?s=60)
-![@chavarera](https://avatars3.githubusercontent.com/u/33047641?s=60)
+![@VarunKumar.D]
+
 
 ### Functionality to be added undo and redo to add more flexibility to it.
+
+
