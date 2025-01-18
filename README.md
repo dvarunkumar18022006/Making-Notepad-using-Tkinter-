@@ -34,31 +34,9 @@
   **mainicon.ico:**
   is the main icon which will apperar after installing this Notepad.
 
-  **Notepad -0.01-amd64.msi:**
-  is the setup of this Notepad .
-
   **setup.py:**
    is the file used to make the setup of the Notepad.
 
-  ## Install
-  Executable Application on Windows:
-  ```
-  - Download this repository on local machine.
-  - Extract MY-NOTEPAD repository on local machine and open MY-NOTEPAD folder
-  - Double click on "Notepad -0.01-amd64.msi" To install Application.
-  - Give required permissions and Enjoy the MY-NOTEPAD Application.
-  ```
-
-  Python Code On windows machine:
-
-  clone My-Notepad repository on local machine.
-  ```
-  >git clone https://github.com/abhishuraina/MY-NOTEPAD
-  ```
-  change directory to My-NOTEPAD
-  ```
-  > cd MY-NOTEPAD/
-  ```
 
 Now its time to execute **Notepad.py**
 ```
@@ -66,9 +44,6 @@ Now its time to execute **Notepad.py**
 ```
 it will show following Output
 ![outputwindow](https://raw.githubusercontent.com/chavarera/MY-NOTEPAD/Readme/demo.png)
-
-## Download
-:paperclip: [Download Here](https://github.com/abhishuraina/MY-NOTEPAD/blob/master/%20Notepad%20-0.01-amd64.msi)
 
 Hope you'll install it in your computer just to try .
 
